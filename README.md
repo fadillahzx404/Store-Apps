@@ -4,7 +4,7 @@
 
 ## About Website
 
-membangun website marketplace berskala besar dan memiliki nilai jual yang tinggi. Kita akan mengetahui pembuatan marketplace sebagai media jual beli produk gadget, makanan, furniture secara online dengan metode pembayaran Midtrans, sebuah teknologi payment gateway untuk pebisnis online. Kelas ini menggunakan tools Laravel 9, Bootstrap 5 dan VueJS 2.
+membangun website marketplace berskala besar dan memiliki nilai jual yang tinggi. Kita akan mengetahui pembuatan marketplace sebagai media jual beli produk gadget, makanan, furniture secara online dengan metode pembayaran Midtrans, sebuah teknologi payment gateway untuk pebisnis online. web ini menggunakan tools Laravel 9, Bootstrap 5 dan VueJS 2.
 
 ## Image Web Apps 
 
